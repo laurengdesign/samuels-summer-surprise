@@ -1,0 +1,129 @@
+
+
+#divone{
+    display: flex;
+    justify-content: center;
+}
+
+#back1{
+    
+    margin: auto;
+    position: absolute;
+    height: 100%;
+    width: auto;
+    z-index:-1;
+
+}
+
+#back2{
+    
+    margin: auto;
+    position: absolute;
+    height: 100%;
+    width: auto;
+    z-index:10;
+    opacity: 500;
+
+}
+
+#divtwo{
+    text-align: center;
+    z-index:4;
+}
+
+#trans{
+    
+    margin-top: 40vh;
+    margin-left: -20vh;
+    width: 40vh;
+   position: absolute;
+    height: auto;
+    z-index:4;
+}
+
+
+#divthree{
+    text-align: center;
+    z-index:3;
+}
+
+#loca{
+    margin: auto;
+    margin-left: -20vh;
+    padding-top: 55vh;
+    width: 40vh;
+    position: absolute;
+    height: auto;
+    z-index:3;
+}
+
+#divfour{
+    text-align: center;
+    z-index:2;
+}
+
+#act{
+    margin: auto;
+    margin-left: -20vh;
+    padding-top: 70vh;
+    width: 40vh;
+    position: absolute;
+    height: auto;
+    z-index:2;
+}
+
+
+#back{
+  padding-left: 30vh;
+    z-index:3;
+}
+
+#bk{
+    padding-left: 15%;
+    padding-top: 10vh;
+    width: 4%;
+    position: absolute;
+    height: auto;
+    z-index:2;
+}
+
+#note{
+    padding-left: 10%;
+    padding-top: 85vh;
+    width: 20%;
+    position: absolute;
+    height: auto;
+    z-index:1;
+}
+
+#close{
+    padding-left: 55%;
+    padding-top: 88vh;
+    width: 10%;
+    position: absolute;
+    height: auto;
+    z-index:12;
+}
+
+#p2{
+    text-align: center;
+    z-index:3;
+}
+
+#list{
+    margin: auto;
+    margin-left: -30vh;
+    padding-top: 10vh;
+    width: 60vh;
+    position: absolute;
+    height: auto;
+    z-index:11;
+}
+
+/*******************
+
+
+
+
+
+*******************/
